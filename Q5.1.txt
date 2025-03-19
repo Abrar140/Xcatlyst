@@ -1,0 +1,7 @@
+Q5.1: Design a Notification System
+
+How would you design a real-time notification system for a task management app? Briefly explain your approach.
+
+
+i would use socket.io  for real time notification system  for task management   
+when  a task is assigned to user a notification will be sent to user 

@@ -1,0 +1,5 @@
+List three strategies to optimize an API that serves millions of tasks for users.
+
+
+1-Limiting rate of  Api response
+2-Use cache
