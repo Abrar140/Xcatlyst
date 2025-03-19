@@ -1,0 +1,3 @@
+we can easily prevent  data redundancy by using caching   checking if data is available in cache 
+there is no need to fetch it  if data is not available then fetch it. 
+it reduces redunacy in fetching data. there must b a time for  data in chacheater that time data will  be removed from chache
